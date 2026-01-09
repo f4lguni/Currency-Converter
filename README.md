@@ -3,6 +3,10 @@
 A simple and responsive **Currency Converter** web application built using **HTML, CSS, and JavaScript**.  
 This project allows users to convert amounts between different currencies using real-time exchange rates.
 
+
+<img width="1914" height="917" alt="image" src="https://github.com/user-attachments/assets/b2a2f017-0a1b-47b6-bba8-8b87872e92da" />
+
+
 ---
 
 ## 🚀 Features
